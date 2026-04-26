@@ -1,2 +1,2 @@
 # week4-lab
-week4
+Programming techniques practical assignment 
